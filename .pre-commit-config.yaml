@@ -28,8 +28,8 @@ repos:
   - repo: https://github.com/codespell-project/codespell
     rev: v2.3.0
     hooks:
-    - id: codespell
-      args: [--write-changes]
+      - id: codespell
+        args: [--write-changes]
 
   - repo: https://github.com/astral-sh/ruff-pre-commit
     rev: v0.9.2
