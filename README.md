@@ -8,6 +8,12 @@ template repository for new uv projects with boilerplate code.
 make run
 ```
 
+to run project in a docker container:
+
+```shell
+make compose
+```
+
 ## getting started
 
 ### pre-requisites
